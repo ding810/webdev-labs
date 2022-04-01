@@ -10,7 +10,7 @@ body {
 Add some style blocks below this line to style the card.
 */
 h2 {
-    padding-left: 10px;
+    padding-left: 15px;
 }
 
 img {
@@ -19,18 +19,18 @@ img {
 }
 
 p {
-    padding-left: 10px;
+    padding-left: 15px;
     height: 90px;
-    width: 300px;
+    width: 305px;
     padding-bottom: 50px;
 }
 
 button {
-    margin-left: 10px;
+    margin-left: 15px;
     margin-bottom: 15px;
 }
 
 section {
     border: 1px solid gray;
-    width: 327px;
+    width: 332px;
 }
